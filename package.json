@@ -1,0 +1,19 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "description": "Twitch bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewpaulino/twitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewpaulino/twitch/issues"
+  },
+  "homepage": "https://github.com/andrewpaulino/twitch#readme"
+}
