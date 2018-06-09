@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrewpaulino/twitch/issues"
   },
-  "homepage": "https://github.com/andrewpaulino/twitch#readme"
+  "homepage": "https://github.com/andrewpaulino/twitch#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
 }
